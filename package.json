@@ -1,11 +1,11 @@
 {
   "author": "Rijnhard Hessel <r.hessel.git@gmail.com>",
-  "name": "ini2",
+  "name": "ini-parser-js",
   "description": "An ini encoder/decoder for node based on Isaacs ini but with support for decoding filters",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rijnhard/ini.git"
+    "url": "git://github.com/sambacha/ini.git"
   },
   "main": "ini.js",
   "scripts": {
